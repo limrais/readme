@@ -10,14 +10,8 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/Systems_Engineering-⚙️-0a0a0a?style=flat-square">
-    <img src="https://img.shields.io/badge/INFJ-⚜️-2c2c2c?style=flat-square">
-    <img src="https://img.shields.io/badge/From-BOLIVIA_🇧🇴-d4af37?style=flat-square">
-  </p>
-
-  <p align="center">
+    <img src="https://img.shields.io/badge/INFJ-2c2c2c?style=flat-square">
     <img src="https://komarev.com/ghpvc/?username=limrais&label=VISITAS&color=2c2c2c&style=flat-square">
-    <img src="https://img.shields.io/github/followers/limrais?label=SEGUIDORES&style=flat-square&color=2c2c2c">
-    <img src="https://img.shields.io/github/stars/limrais?label=ESTRELLAS&style=flat-square&color=d4af37">
   </p>
 
 </div>
